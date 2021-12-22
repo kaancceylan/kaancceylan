@@ -7,7 +7,7 @@ I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://www.flaticon.com/premium-icon/twitter_2504839?term=twitter&page=1&position=4&page=1&position=4&related_id=2504839&origin=tag (twitter icon without padding)
 [1]: https://twitter.com/kaancceylan
 
 ```html
