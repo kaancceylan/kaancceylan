@@ -5,6 +5,11 @@ I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I
 
 # **Follow Me On** 👇🏻
 
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1]: https://twitter.com/kaancceylan
+
 ```html
 <img src=twitter.png>
 ```
