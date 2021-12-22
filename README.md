@@ -21,10 +21,6 @@ I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I
 
 ***
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=kaancceylan&layout=compact&show_icons=true&theme=radical
-
-***
-
 ⚒️ **Current Stack**
 - Python
 - Pandas
