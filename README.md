@@ -6,8 +6,7 @@ I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I
 # **Follow Me On** 👇🏻
 
 <img alt="Twitter" src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white>
-![twitter-icon](https://user-images.githubusercontent.com/70446695/147018363-adace616-b7eb-4cd2-94ab-ffc1a99014c1.png)
-[Twitter](https:/twitter.com/kaancceylan)
+[https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white](https:/twitter.com/kaancceylan)
 
 ```html
 <img alt="Medium" src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white>
