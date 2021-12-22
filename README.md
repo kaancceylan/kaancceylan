@@ -4,10 +4,10 @@ I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I
 ***
 
 # **Follow Me On** 👇🏻
-```html
+
 <img alt="Twitter" src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white>
-```
-[Twitter]("https:/twitter.com/kaancceylan")
+
+[Twitter](https:/twitter.com/kaancceylan)
 
 ```html
 <img alt="Medium" src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white>
@@ -17,7 +17,6 @@ I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I
 <img alt="LinkedIn" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>
 ```
 [LinkedIn](https://www.linkedin.com/in/kaan-ceylan-ab6471171)
-```
 
 ***
 
