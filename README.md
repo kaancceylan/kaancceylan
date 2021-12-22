@@ -5,6 +5,11 @@ I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I
 
 # **Follow Me On** 👇🏻
 <img alt="Twitter" src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white><a href="https:/twitter.com/kaancceylan" target="_blank">Twitter</a>
+
+
+<img alt="Twitter" src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white> https:/twitter.com/kaancceyla
+
+
 <img alt="Medium" src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white>[Medium](https://medium.com/@kaanceylan)
 <img alt="LinkedIn" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>[LinkedIn](https://www.linkedin.com/in/kaan-ceylan-ab6471171)
 
@@ -12,11 +17,11 @@ I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I
 
 ⚒️ **Current Stack**
 - Python
-> Pandas
-> Numpy
-> Matplotlib
-> Seaborn
-> ScikitLearn
+- Pandas
+- Numpy
+- Matplotlib
+- Seaborn
+- ScikitLearn
 - VSCode
 - Jupyter
 - SQL
