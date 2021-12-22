@@ -1,14 +1,16 @@
-<center> # **Hi** 👋🏻 **My name is Kaan! Get to know me** 👇🏻 </center>
+# **Hi** 👋🏻 **My name is Kaan! Get to know me** 👇🏻
 I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I started coding after I graduated and I've been writing Python code for the past 2 years. I'm currently working on recommender systems using collaborative filtering. I'm curious about anything and everything related to machine learning so I try to read articles and papers in my spare time. I'm also going to start working on some side projects starting in 2022, let this be my new year's resolution. Thanks for reading! 
 
+***
 
-<center> # Follow Me On 👇🏻 </center>
-<img alt="Twitter" src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white>[Twitter](https:/twitter.com/kaancceylan)
+# **Follow Me On** 👇🏻
+<img alt="Twitter" src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white><a href="https:/twitter.com/kaancceylan" target="_blank">Twitter</a>
 <img alt="Medium" src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white>[Medium](https://medium.com/@kaanceylan)
 <img alt="LinkedIn" src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white>[LinkedIn](https://www.linkedin.com/in/kaan-ceylan-ab6471171)
 
+***
 
-<center> ⚒️ **Current Stack** </center>
+⚒️ **Current Stack**
 - Python
 > Pandas
 > Numpy
@@ -20,11 +22,11 @@ I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I
 - SQL
 
 
-<center> 👨🏻‍💻 **Learning** </center>
+👨🏻‍💻 **Learning**
 - Docker
 - AWS
 
-<center> 📚 **Want To Learn** </center>
+📚 **Want To Learn**
 - Tensorflow
 - Gradio
 - Streamlit
