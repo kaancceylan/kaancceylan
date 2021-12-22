@@ -10,7 +10,7 @@ I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I
 [![Twitter][1.2]][1]
 
 [3.2]: icons8-linkedin.gif
-[2.2]: icons8-medium-monogram.gif
+[2.2]: icons8-medium-monogram-2.gif
 [1.2]: icons8-twitter.gif 
 
 [3]: https://www.linkedin.com/in/kaan-ceylan-ab6471171
