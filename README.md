@@ -31,7 +31,6 @@ I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I
 - Matplotlib
 - Seaborn
 - ScikitLearn
-- VSCode
 - Jupyter
 - SQL
 
