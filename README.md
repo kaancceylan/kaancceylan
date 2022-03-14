@@ -5,7 +5,8 @@ I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I
 
 ***
 
-![Top-langugaes](https://github-readme-stats.vercel.app/api/top-langs/?username=kaancceylan&layout=compact&show_icons=true&theme=radical)
+<!--Commented out the language percentage chart for now -->
+<!--![Top-langugaes](https://github-readme-stats.vercel.app/api/top-langs/?username=kaancceylan&layout=compact&show_icons=true&theme=radical)-->
 
 # **Follow Me On** 👇🏻
 
