@@ -20,7 +20,7 @@ I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I
 ⚒️ **Current Stack**
 - Python
 - Data Science: Pandas, Numpy
-- ML: ScikitLearn
+- ML/DL: ScikitLearn, Tensorflow
 - Visualization: Matplotlib, Seaborn
 - Development: Docker, AWS
 
@@ -29,7 +29,6 @@ I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I
 - AWS
 
 📚 **Want To Learn**
-- Tensorflow
 - Gradio
 - Streamlit
 - WandB
