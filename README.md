@@ -1,5 +1,6 @@
+<h1 align="center">Parts of this readme is not valid as of August 2022, I promise I will update it 😅 </h1>
 
-<h1 align="center">Hi! 👋🏻 My name is Kaan! Get to know me 👇🏻</h1>
+<h2 align="center">Hi! 👋🏻 My name is Kaan! Get to know me 👇🏻</h2>
 
 I'm an **ML Engineer based in Izmir** with a degree in electrical engineering. I started coding after I graduated and I've been writing Python code for the past 2 years. I'm currently working on recommender systems using collaborative filtering. I'm curious about anything and everything related to machine learning so I try to read articles and papers in my spare time. I'm also going to start working on some side projects starting in 2022, let this be my new year's resolution. Thanks for reading! 
 
